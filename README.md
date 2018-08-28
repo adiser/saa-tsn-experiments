@@ -15,6 +15,8 @@ In this documentation, I will go through some of the extended features that I im
 * [TSN-PyTorch Preparation](tsn-pytorch-preparation)
 * [OpenPose Heatmap Generation](#openpose-heatmap-generation)
 * [Windowed Rank Pooling Implementation](#windowed-rank-pooling)
+* [Overview of tsn-pytorch extended features](#Overview-of-tsn-pytorch-extended-features)
+
  
 # Dataset Preparation
 We will be using the [original codebase][temporal-segment-networks] for the Temporal Segment Networks for frame extraction and video file list generation
