@@ -4,6 +4,12 @@ _by Sergi Adipraja Widjaja -- Experiments conducted in May - August 2018_
 # Overview
 This codebase is to replicate the experiments that I conducted during my summer attachment at A*STAR Institute for Infocomm Research. This work revolves around the famous [Temporal Segment Networks for Action Recognition][temporal-segment-networks] framework [(default PyTorch implementation)][tsn-pytorch]
 
+Run:
+```
+$ bash scripts/build.sh
+```
+The above script will install and build all dependencies except openpose
+
 In this documentation, I will go through some of the extended features that I implemented in my codebase during my attachment.
 * [Dataset Preparation](#dataset-preparation)
 * [TSN-PyTorch Preparation](tsn-pytorch-preparation)
