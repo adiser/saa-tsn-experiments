@@ -1,0 +1,12 @@
+[submodule "utils/temporal-segment-networks"]
+	path = utils/temporal-segment-networks
+	url = https://www.github.com/yjxiong/temporal-segment-networks
+[submodule "utils/openpose"]
+	path = utils/openpose
+	url = https://www.github.com/adiser/openpose
+[submodule "utils/dynamic-image-nets"]
+	path = utils/dynamic-image-nets
+	url = https://www.github.com/adiser/dynamic-image-nets
+[submodule "tsn-pytorch"]
+	path = tsn-pytorch
+	url = https://www.github.com/adiser/tsn-pytorch
