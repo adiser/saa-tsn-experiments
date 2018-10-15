@@ -1,6 +1,9 @@
 # **A*STAR I2R Situational Awareness Analytics Department - Temporal Segment Networks Experiments Codebase**
 _by Sergi Adipraja Widjaja -- Experiments conducted in May - August 2018_
 
+10/15/2018:
+**Added vidpose**
+
 # Overview
 This codebase is to replicate the experiments that I conducted during my summer attachment at A*STAR Institute for Infocomm Research. This work revolves around the famous [Temporal Segment Networks for Action Recognition][temporal-segment-networks] framework [(default PyTorch implementation)][tsn-pytorch]
 
