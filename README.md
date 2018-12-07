@@ -2,7 +2,7 @@
 _by Sergi Adipraja Widjaja -- Experiments conducted in May - August 2018_
 
 10/15/2018:
-**Added vidpose**
+**Added vidpose** -- Includes python implementation of approximate rank pooling
 
 # Overview
 This codebase is to replicate the experiments that I conducted during my summer attachment at A*STAR Institute for Infocomm Research. This work revolves around the famous [Temporal Segment Networks for Action Recognition][temporal-segment-networks] framework [(default PyTorch implementation)][tsn-pytorch]
